@@ -1,0 +1,14 @@
+.image-details-container{
+    position: relative;
+    /* height: 100vh; */
+}
+.image-detail-img{
+    height: 90vh;
+}
+.photo-credits{
+    position: absolute;
+    bottom: 1px;
+    right: 10px;
+    color: white;
+    opacity: 0.6;
+}

@@ -1,8 +1,10 @@
-.App{
-    /* background-color: #fdeb92; */
-}
+
 
 .main-section-heading{
     text-align: center;
     padding: 20px;
+}
+.image-detail-img{
+    width: 100%;
+    height: 25%;
 }
