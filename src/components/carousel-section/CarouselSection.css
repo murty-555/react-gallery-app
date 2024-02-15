@@ -1,0 +1,9 @@
+.container{
+    height: 50% !important;
+}
+img{
+    height: 50% !important;
+}
+.carousel-caption{
+    text-align: right;
+}
